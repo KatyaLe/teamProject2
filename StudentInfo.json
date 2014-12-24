@@ -1,0 +1,76 @@
+[   
+ {  
+  "studentID": 1,
+  "course": "Archaelogy",
+  "studentName": "Alan Smith",
+  "university": "Stanford",
+  "age": "18",
+  "courseDetails": {
+    "costPerYear": "10000 $",
+    "grant": "4500 $",
+    "duration": "4 years"
+  }
+ },  
+  {  
+    "studentID": 2,
+  "course": "History and English",
+  "studentName": "Alexa Johnson",
+  "university": "Stanford",
+  "age": "17",
+  "courseDetails": {
+    "costPerYear": "12000 $",
+    "grant": "3500 $",
+    "duration": "5 years"
+  }
+ },  
+  {  
+   "studentID": 3,
+  "course": "Mathematics",
+  "studentName": "Blake Williams",
+  "university": "Stanford",
+  "age": "19",
+  "courseDetails": {
+    "costPerYear": "18000 $",
+    "grant": "5500 $",
+    "duration": "4 years"
+  }
+ }, 
+  {  
+    "studentID": 4,
+  "course": "Law",
+  "studentName": "Billy Brown",
+  "university": "Stanford",
+  "age": "18",
+  "courseDetails": {
+    "costPerYear": "24000 $",
+    "grant": "4500 $",
+    "duration": "6 years"
+  }
+ }, 
+  {  
+   "studentID": 5,
+  "course": "Philosophy and Teology",
+  "studentName": "Vivian Miller",
+  "university": "Stanford",
+  "age": "18",
+  "courseDetails": {
+    "costPerYear": "17000 $",
+    "grant": "5000 $",
+    "duration": "4 years"
+  }
+ }, 
+  {  
+    "studentID": 6,
+  "course": "Computer Science",
+  "studentName": "Joseph Taylor",
+  "university": "Stanford",
+  "age": "20",
+  "courseDetails": {
+    "costPerYear": "15000 $",
+    "grant": "5500 $",
+    "duration": "4 years"
+  }
+ 
+
+ }
+] 
